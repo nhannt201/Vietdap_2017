@@ -1,0 +1,186 @@
+h1{
+    text-align: center;
+    color:#0aa0d0;
+    background: rgb(252, 253, 254);
+    padding: 10px;
+
+}
+.caude{
+    text-align: center;
+    color:#0aa0d0;
+    background: rgb(252, 253, 254);
+font-size: 30px;
+ padding: 5px;
+}
+
+
+body {
+  background: white;
+  font-family: Arial;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:active {
+    text-decoration: underline;
+}
+
+table .tkk2 {
+	 text-align: center;
+	  background:rgb(147, 221, 245);
+	   padding: 20px;
+	   width: 50%;
+	   
+}
+table .tkk3 {
+	 text-align: center;
+	  background: rgb(116, 212, 243);
+	   padding: 20px;
+	   width: 50%;
+	   
+}
+
+table .l1 {
+	 text-align: center;
+	  background:rgb(10, 160, 208);
+	   padding: 20px;
+	   width: 50	%;
+	   
+}
+
+table .l3 {
+	 text-align: center;	
+	   width: 10%;	
+}
+
+table .l3 h2{
+	 text-align: center;
+ background:rgb(10, 160, 208);
+	    padding: 20px;
+color: white;
+  border-style: solid solid solid none;
+    border-color: transparent #d83c3c
+
+}
+
+
+table .l1 h2 {
+	 
+	 color: white;
+
+	   
+}
+
+
+table .l1 h3 {
+	 
+    text-align: center;
+    color:#000;
+    background: rgb(252, 253, 254);
+    padding: 20px;
+	   
+}
+
+table .l1 h3:hover {
+	 
+    text-align: center;
+    color:#000;
+    background: rgb(245, 255, 209);
+    padding: 20px;
+	   
+}
+
+
+table .l2 {
+	 text-align: center;
+
+	  color:#000;
+	   width: 20%;
+	   
+}
+table .l1 h1 {
+	 text-align: center;
+	 
+	  color:#000;
+	  
+	   
+}
+table .l4 {
+	 text-align: center;
+	  background: rgb(10, 160, 208);
+	   padding: 20px;
+	   width: 50%;
+	 color: white;
+	   
+}
+
+table .l4 h1{
+	 text-align: center;
+	   color: #000;
+	     background: white;
+}
+table .l4 h3{
+	 text-align: center;
+	   color: #000;
+	     background: white;
+	  	     padding: 20px;
+
+}
+table .l4 h3:hover{
+	 text-align: center;
+	   color: #000;
+	     background: rgb(245, 255, 209);
+	  	     padding: 20px;
+
+}
+
+
+
+table .l2 h2 {
+        font-size: 20px;
+	    background:white; 
+		padding: 50px;
+}
+div .bkg {
+	height: 500px;
+		  background:rgb(202, 221, 241);
+
+}
+table .nvkd {
+	background:white;
+	height:100px;
+}
+
+table .nvkd h1 {
+	    text-align: center;
+
+    padding: 20px;
+	font-size: 50px;
+}
+table .foter {
+	  background:#0aa0d0;
+	  color: white;
+}
+table .foter h1{
+	  background:#0aa0d0;
+	  color: white;
+}
+
+/*responsive menu code. */
+@media (max-width:800px) {
+  
+  
+.quangcao {
+	  display: none;
+}
+
+
+
+}
+

@@ -1,0 +1,70 @@
+	/* Theme by Nguyen Trung Nhan Hoi Ngay Co Dap*/
+*{margin: 0;padding: 0;}
+#wrapper{
+    width: 900px;
+    margin: 20px auto;
+}
+h3{
+    text-align: center;
+    color:#007baf;
+ 
+    padding: 5px;
+}
+
+h2{
+    text-align: center;
+    color:#007baf;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.91);
+    background: rgba(0, 123, 175, 0.91);
+    padding: 20px;
+}
+h1 a{
+    text-decoration: none;
+    color:#D2D2D2;
+    text-shadow: 0 1px 2px #fff,0 1px 2px #000;
+}
+h1 a:hover{
+    text-decoration: underline;
+}
+
+
+table{
+    margin: 20px auto;
+    border-collapse:collapse ;
+    border: 1px solid #ccc;
+	 width: 70%;
+}
+#footer{
+    margin: 20px auto;
+    border-collapse:collapse ;
+    border: 1px solid #ccc;
+	 width: 90%;
+}
+thead tr{
+    border-bottom: 5px solid #ccc;
+    color:#235a81;
+    background: #eee;
+}
+th{
+    padding: 10px 10px;
+    border-right: 1px solid #bbb;
+}
+td{
+    padding:10px 12%;
+    border-right: 1px solid #bbb;
+}
+tbody tr:nth-child(2n){
+    background: #DFDFDF;
+}
+a {
+    color: #337ab7;text-decoration:none}a:hover,a:focus{color:# 23527 c;text - decoration: underline
+}
+a: focus {
+    outline: thin dotted;outline: 5 px auto - webkit - focus - ring - color;outline - offset: -10 px
+}
+
